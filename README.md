@@ -56,4 +56,3 @@ optional arguments:
 * http://www.holehouse.org/mlclass/06_Logistic_Regression.html
 * http://cs229.stanford.edu/notes/cs229-notes1.pdf
 * https://crsmithdev.com/blog/ml-logistic-regression/
-* http://www.holehouse.org/mlclass/06_Logistic_Regression.html
